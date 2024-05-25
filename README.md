@@ -25,7 +25,7 @@ This is a Snake game implemented in Python using the Pygame library. It includes
 
 1. Install Python if you haven't already. You can download it from [python.org](https://www.python.org/downloads/).
 2. Install Pygame by running `pip install pygame` in your terminal or command prompt.
-3. Clone this repository to your local machine using `[git clone https://github.com/your-username/snake-game.git](https://github.com/Mohamedelmahdy01/Ai_project-snake-.git)`.
+3. Clone this repository to your local machine using `https://github.com/Mohamedelmahdy01/Ai_project-snake-.git`.
 
 ## Usage
 
